@@ -19,13 +19,17 @@
     {
       "name": "P. K. Tharindu",
       "email": "pktharindu@outlook.com"
+    },
+    {
+      "name": "Nima HeydariNasab",
+      "email": "nima.heydari79@yahoo.com"
     }
   ],
   "require": {
     "php": ">=7.1.0|^8.0"
   },
   "require-dev": {
-    "laravel/nova": "^4.0"
+    "laravel/nova": "^4.0|^5.0"
   },
   "repositories": [
     {
